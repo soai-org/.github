@@ -1,21 +1,21 @@
 # AI 활용 소아과의사 진단 보조 서비스 SoAI
 
 AI를 활용하여 소아과의사의 업무를 효율적으로 할 수 있게 도와주는 서비스를 기획 및 구현했습니다.
-1. DICOM 파일 포맷 이미지뷰어와 이미지 편집 툴을 제공
-2. 의료이미지를 분석해서 질환 부위를 표시(Segmentation)
-3. 의료이미지와 이전 질환 내역을 참고하여 예측되는 질환을 설명(Captioning)
-4. 전문 의료 지식을 통해 파인튜닝한 LLM을 통해 질의에 대한 답변을 받을 수 있는 챗봇 기능
+> 1. DICOM 파일 포맷 이미지뷰어와 이미지 편집 툴을 제공
+> 2. 의료이미지를 분석해서 질환 부위를 표시(Segmentation)
+> 3. 의료이미지와 이전 질환 내역을 참고하여 예측되는 질환을 설명(Captioning)
+> 4. 전문 의료 지식을 통해 파인튜닝한 LLM을 통해 질의에 대한 답변을 받을 수 있는 챗봇 기능
 
 위 기능을 제공하고 있습니다.
 
 # :smirk_cat: 프로젝트 구성
 | Repo | Description | Tech |
 |------|-------------|------|
-| [frontend](https://github.com/soai-org/soai-frontend) | 사용자 웹/앱 화면 (Next.js, React) | Next.js, TailwindCSS, cornerstone.js, next-auth.js, shadcn/ui |
+| [frontend](https://github.com/soai-org/soai-frontend) | 사용자 UI 및 이미지 뷰어 구현 | Next.js, TailwindCSS, cornerstone.js, next-auth.js, shadcn/ui |
 | [backend](https://github.com/soai-org/soai-backend) | REST API & 인증 권한 관리 & 데이터 관리 | Spring, Spring-Security, Mybatis |
-| [ai-server](https://github.com/soai-org/soai-fastapi) | AI 모델 및 추론 서버 | Python, FastAPI, PyTorch, LLM, HuggingFace Transformers |
+| [ai-server](https://github.com/soai-org/soai-fastapi) | AI 모델 및 추론 기능 서빙 서버 | Python, FastAPI, PyTorch, LLM, HuggingFace Transformers |
 
-# 시스템 구성
+# :gear: 시스템 구성
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1dc449cc-92ce-404c-8946-75ed5f92741b" />
 
 # :people_hugging: 팀 소개
@@ -23,16 +23,23 @@ AI를 활용하여 소아과의사의 업무를 효율적으로 할 수 있게 �
   - 일정 및 산출물 관리
   - UI/UX 개발
   - Cornerstone.js DICOM 포맷 파일 이미지 렌더링
+ 
+
 - 황유성(프로젝트 리더)
   - 프로젝트 아디이어 기획
   - 복부 x-ray 의료사진 분석 및 예측 모델 개발
   - AI 기능 서빙 API 구현
+ 
 - 김도연
   - DB 스키마 정의 및 SQL문 작성
   - 인증 권한 기능 구현
   - 피부 질환 진단 AI 모델 구현
+ 
+
 - 임수열
   - 초음파 사진 분석 충수염 예측 모델 개발
+ 
+
 - 전유범
   - Orthanc REST API 요청 로직 구현
   - Thumbnail 요청 최적화
