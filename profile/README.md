@@ -11,9 +11,9 @@ AI를 활용하여 소아과의사의 업무를 효율적으로 할 수 있게 �
 # :smirk_cat: 프로젝트 구성
 | Repo | Description | Tech |
 |------|-------------|------|
-| [frontend](https://github.com/soai-org/soai-frontend) | 사용자 UI 및 이미지 뷰어 구현 | Next.js, TailwindCSS, cornerstone.js, next-auth.js, shadcn/ui |
-| [backend](https://github.com/soai-org/soai-springboot) | REST API & 인증 권한 관리 & 데이터 관리 | Spring, Spring-Security, Mybatis |
-| [ai-server](https://github.com/soai-org/soai-fastapi) | AI 모델 및 추론 기능 서빙 서버 | Python, FastAPI, PyTorch, LLM, HuggingFace Transformers |
+| [frontend](https://github.com/soai-org/soai-frontend) | 사용자 UI 및 이미지 뷰어 구현 | ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) |
+| [backend](https://github.com/soai-org/soai-springboot) | REST API & 인증 권한 관리 & 데이터 관리 | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) |
+| [ai-server](https://github.com/soai-org/soai-fastapi) | AI 모델 및 추론 기능 서빙 서버 | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)|
 
 # :gear: 시스템 구성
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1dc449cc-92ce-404c-8946-75ed5f92741b" />
