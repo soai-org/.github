@@ -8,7 +8,7 @@ AI를 활용하여 소아과의사의 업무를 효율적으로 할 수 있게 �
 
 위 기능을 제공하고 있습니다.
 
-# :smirk_cat: 프로젝트 구성
+# :briefcase: 프로젝트 구성
 | Repo | Description | Tech |
 |------|-------------|------|
 | [frontend](https://github.com/soai-org/soai-frontend) | 사용자 UI 및 이미지 뷰어 구현 | ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) |
