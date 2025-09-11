@@ -15,9 +15,6 @@ AI를 활용하여 소아과의사의 업무를 효율적으로 할 수 있게 �
 | [backend](https://github.com/soai-org/soai-springboot) | REST API & 인증 권한 관리 & 데이터 관리 | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) |
 | [ai-server](https://github.com/soai-org/soai-fastapi) | AI 모델 및 추론 기능 서빙 서버 | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)|
 
-# :gear: 시스템 구성
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1dc449cc-92ce-404c-8946-75ed5f92741b" />
-
 # :people_hugging: 팀 소개
 - 강두훈(프로젝트 총괄)
   - 일정 및 산출물 관리
@@ -43,6 +40,10 @@ AI를 활용하여 소아과의사의 업무를 효율적으로 할 수 있게 �
 - 전유범
   - Orthanc REST API 요청 로직 구현
   - Thumbnail 요청 최적화
+
+
+# :gear: 시스템 구성
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1dc449cc-92ce-404c-8946-75ed5f92741b" />
 
 # 화면 자료
 [로그인 화면: 서비스 이용 초기 인증 요청을 위한 화면]
