@@ -8,6 +8,11 @@ AI를 활용하여 소아과의사의 업무를 효율적으로 할 수 있게 �
 
 위 기능을 제공하고 있습니다.
 
+# 시연영상
+[![SoAI 유튜브 시연 영상](https://img.youtube.com/vi/J77fvXnbVy8/0.jpg)](https://www.youtube.com/watch?v=J77fvXnbVy8)
+
+:exclamation:️ 위 썸네일을 누르시면 시연영상을 볼 수 있습니다.
+
 # :briefcase: 프로젝트 구성
 | Repo | Description | Tech |
 |------|-------------|------|
