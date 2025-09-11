@@ -44,6 +44,23 @@ AI를 활용하여 소아과의사의 업무를 효율적으로 할 수 있게 �
   - Orthanc REST API 요청 로직 구현
   - Thumbnail 요청 최적화
 
+# 화면 자료
+[로그인 화면: 서비스 이용 초기 인증 요청을 위한 화면]
+<img width="1892" height="1024" alt="스크린샷 2025-09-03 오후 3 03 15" src="https://github.com/user-attachments/assets/a4540ba1-7e79-4dd1-83f8-8eea125f727b" />
+
+[메인 화면: 환자와 스터디 리스트 조회 화면]
+<img width="1891" height="1024" alt="스크린샷 2025-09-03 오후 3 05 03" src="https://github.com/user-attachments/assets/8309db40-35ed-43dc-9baf-1e7256092eb0" />
+
+[이미지 뷰어 화면 - 1: 의료이미지 상호작용 뷰어]
+<img width="1894" height="1025" alt="스크린샷 2025-09-03 오후 3 05 33" src="https://github.com/user-attachments/assets/280520c3-2c3f-4316-a06b-2428acab9a43" />
+
+[이미지 뷰어 화면 - 2: AI 사용 후]
+<img width="1891" height="1026" alt="스크린샷 2025-09-04 오전 11 17 00" src="https://github.com/user-attachments/assets/5f3e623a-59eb-4316-b2e4-e7b4613248c0" />
+
+[사용자 관리 화면: 사용자 조회 및 추가/수정/삭제 기능 요청 화면]
+<img width="1894" height="1025" alt="스크린샷 2025-09-03 오후 3 05 57" src="https://github.com/user-attachments/assets/5308b93c-acdc-41e2-89b9-01a9f6e556d2" />
+
+
 # 참고자료
 ### [프로젝트 보고서](https://drive.google.com/file/d/1sWhmiKX7Afz_UrdEt1nxj92HauiCjlmi/view?usp=drive_link)
 > 프로젝트 설계 및 구현 과정 등을 자세히 살펴볼 수 있는 산출물입니다.
